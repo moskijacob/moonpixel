@@ -1487,7 +1487,7 @@ a.text:hover{text-decoration:none}
 .cnt{display:none}
 .content{border-color:#0084c9!important;border-radius:0;margin-top:2.5em}
 .product-name{background:#0084c9!important;border-color:#0084c9!important;color:#fff;border-radius:0;font-size:18px;text-transform:uppercase;font-weight:400;padding:12px 10px}
-.subscribe{background:#0084c9!important;border:0;text-transform:uppercase;border-radius:0;margin-top:1em;padding:8px}
+.subscribe{background:#c94500!important;border:0;text-transform:uppercase;border-radius:0;margin-top:1em;padding:8px}
 .subscribe2{background:#FFF!important;border:0;text-transform:uppercase;color:#0084c9!important;border-radius:0;padding:10px}
 .subscribe i,.subscribe2 i{font-size:18px;padding:0 5px 0 0}
 .content .panel-default{border-color:#e2e2e2!important;border-radius:0;font-family:'Open Sans',sans-serif;box-shadow:none}
@@ -1509,7 +1509,7 @@ a.text:hover{text-decoration:none}
 .slider input[name='slide_switch']:checked + label + .img-details{opacity:1;display:block;transform:scale(1)}
 .slider #id1 + label + .img-details{opacity:1;display:block;transform:scale(1)}
 .tabPanel-widget{position:relative;background:#0084c9;border:1px solid #0084c9;border-top:0}
-.content .panel-default > .panel-heading{background:#0084c9!important;border-color:#0084c9!important;color:#fff;border-radius:0;font-size:16px;text-transform:uppercase;font-weight:700;font-family:'Open Sans',sans-serif;padding:12px 15px}
+.content .panel-default > .panel-heading{background:#c94500!important;border-color:#0084c9!important;color:#fff;border-radius:0;font-size:16px;text-transform:uppercase;font-weight:700;font-family:'Open Sans',sans-serif;padding:12px 15px}
 .title-heading{width:100%;font-size:19px;font-weight:700;font-family:'Open Sans',sans-serif;background:#c94500;color:#fff;line-height:38px;margin-top:0;border-bottom:2px solid #0084c9;padding:5px 10px}
 .text-section p img{margin-left:10px}
 .text-section,.text-section a,.text-section li,.text-section p,.text-section tr,.text-section td{margin-bottom:8px;font-size:15px;color:#000;font-family:'Open Sans',sans-serif}
@@ -1530,7 +1530,7 @@ a.text:hover{text-decoration:none}
 .tabarea label span{font-family:'Open Sans',sans-serif;font-size:18px;font-weight:700}
 .tabarea #tab3 + label{margin-right:0;left:258px}
 .tabarea #tab4 + label{margin-right:0;left:391px}
-.tabarea input:checked + label{color:#fff;border-bottom:0;background:#0084c9;padding-bottom:10px}
+.tabarea input:checked + label{color:#fff;border-bottom:0;background:#c94500;padding-bottom:10px}
 .tabarea #tab2+ label{left:128px}
 #tab1:checked ~ #content1,#tab2:checked ~ #content2,#tab3:checked ~ #content3,#tab4:checked ~ #content4{display:inline-block}
 .tabarea section p img{margin-left:10px}
@@ -1551,7 +1551,7 @@ a.text:hover{text-decoration:none}
 .footer ul{margin:0;padding:10px 0 0}
 .footer p{margin:0;padding:10px 0 0;font-family:'Open Sans',sans-serif;font-size:15px}
 .footer ul li{display:block;padding:3px 0}
-.footer .footer-signup a{display:inline-block;padding:8px 19px;line-height:18px;color:#fff;background:#0084c9;font-size:14px;font-family:'Open Sans',sans-serif;text-transform:uppercase;margin-top:14px;border-radius:2px}
+.footer .footer-signup a{display:inline-block;padding:8px 19px;line-height:18px;color:#fff;background:#c94500;font-size:14px;font-family:'Open Sans',sans-serif;text-transform:uppercase;margin-top:14px;border-radius:2px}
 .footer .footer-signup a:hover{background:#fff;color:#0084c9}
 .footer ul li a{color:#d1d1d1!important;font-size:14px;text-transform:uppercase;font-family:'Open Sans',sans-serif}
 .footer .quick-link a::before{display:inline-block;width:24px;height:16px;right:10px;top:15px;content:"\f105";font-family:'FontAwesome';font-size:1em;padding-right:10px;vertical-align:middle;float:left;font-weight:400}
