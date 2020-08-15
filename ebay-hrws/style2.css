@@ -1441,7 +1441,7 @@ a.text:hover{text-decoration:none}
 *,:before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;margin:0;padding:0}
 .header{min-height:125px}
 .headercontent{margin-top:30px}
-.content .panel-default > .panel-heading{background:#0084c9!important;border-color:#0084c9!important;color:#fff;border-radius:0;font-size:18px;text-transform:uppercase;font-weight:400}
+.content .panel-default > .panel-heading{background:#c94500!important;border-color:#c94500!important;color:#fff;border-radius:0;font-size:18px;text-transform:uppercase;font-weight:400}
 .header-container .header-top{display:inline-block;width:100%;padding:5px 0;text-align:center;background:#f5f5f5}
 .header-container .header-top span{color:#171717;font-size:14px;font-weight:600;font-family:'Open Sans',sans-serif;text-transform:uppercase;}
 .icon-menu-mb,.header-container .header-content .nav-trigger{display:none}
@@ -1466,11 +1466,11 @@ a.text:hover{text-decoration:none}
 .promo .promo-content .fa{font-size:15x;padding-right:.5em}
 .promo .promo-content span.box-promotion:last-child{border-right:0}
 .banner{margin-top:1em}
-.widget_box h2{margin:0;font-size:18px;font-family:'Open Sans',sans-serif;font-weight:700;background:#0084c9;color:#fff;width:100%;padding:12px 15px}
+.widget_box h2{margin:0;font-size:18px;font-family:'Open Sans',sans-serif;font-weight:700;background:#c94500;color:#fff;width:100%;padding:12px 15px}
 .widget_box ul li{border-bottom:1px solid #dbdee1}
 .widget_box ul li:last-child{border-bottom:0}
 .widget_box ul li a{color:#111;background:none;font-family:'Open Sans',sans-serif;font-weight:700;font-size:14px;line-height:18px;padding:12px 14px;display:inline-block;font-weight:normal;padding:12px 10px}
-.widget_box ul li a:hover{color:#0084c9}
+.widget_box ul li a:hover{color:#c94500}
 .widget_box{margin-bottom:15px}
 .widget_box_text{background:#0a0a0a;border-radius:10px;padding:15px;color:#fff;text-align:justify;font-family:'Open Sans',sans-serif}
 .widget_box_text .heading{color:#fdf234;font-size:16px;font-weight:700;text-align:center}
@@ -1485,10 +1485,10 @@ a.text:hover{text-decoration:none}
 .tani-signup{text-align:center}
 .tani-signup a{padding:5px;background:#ccc}
 .cnt{display:none}
-.content{border-color:#0084c9!important;border-radius:0;margin-top:2.5em}
-.product-name{background:#0084c9!important;border-color:#0084c9!important;color:#fff;border-radius:0;font-size:18px;text-transform:uppercase;font-weight:400;padding:12px 10px}
-.subscribe{background:#0084c9!important;border:0;text-transform:uppercase;border-radius:0;margin-top:1em;padding:8px}
-.subscribe2{background:#FFF!important;border:0;text-transform:uppercase;color:#0084c9!important;border-radius:0;padding:10px}
+.content{border-color:#c94500!important;border-radius:0;margin-top:2.5em}
+.product-name{background:#c94500!important;border-color:#c94500!important;color:#fff;border-radius:0;font-size:18px;text-transform:uppercase;font-weight:400;padding:12px 10px}
+.subscribe{background:#c94500!important;border:0;text-transform:uppercase;border-radius:0;margin-top:1em;padding:8px}
+.subscribe2{background:#FFF!important;border:0;text-transform:uppercase;color:#c94500!important;border-radius:0;padding:10px}
 .subscribe i,.subscribe2 i{font-size:18px;padding:0 5px 0 0}
 .content .panel-default{border-color:#e2e2e2!important;border-radius:0;font-family:'Open Sans',sans-serif;box-shadow:none}
 .image-gallery{position:relative;width:95%;margin:2em auto auto}
@@ -1508,9 +1508,9 @@ a.text:hover{text-decoration:none}
 .slider input[name='slide_switch'] ~ .img-details{opacity:0;display:none}
 .slider input[name='slide_switch']:checked + label + .img-details{opacity:1;display:block;transform:scale(1)}
 .slider #id1 + label + .img-details{opacity:1;display:block;transform:scale(1)}
-.tabPanel-widget{position:relative;background:#0084c9;border:1px solid #0084c9;border-top:0}
-.content .panel-default > .panel-heading{background:#0084c9!important;border-color:#0084c9!important;color:#fff;border-radius:0;font-size:16px;text-transform:uppercase;font-weight:700;font-family:'Open Sans',sans-serif;padding:12px 15px}
-.title-heading{width:100%;font-size:19px;font-weight:700;font-family:'Open Sans',sans-serif;background:#0084c9;color:#fff;line-height:38px;margin-top:0;border-bottom:2px solid #0084c9;padding:5px 10px}
+.tabPanel-widget{position:relative;background:#c94500;border:1px solid #c94500;border-top:0}
+.content .panel-default > .panel-heading{background:#c94500!important;border-color:#c94500!important;color:#fff;border-radius:0;font-size:16px;text-transform:uppercase;font-weight:700;font-family:'Open Sans',sans-serif;padding:12px 15px}
+.title-heading{width:100%;font-size:19px;font-weight:700;font-family:'Open Sans',sans-serif;background:#c94500;color:#fff;line-height:38px;margin-top:0;border-bottom:2px solid #c94500;padding:5px 10px}
 .text-section p img{margin-left:10px}
 .text-section,.text-section a,.text-section li,.text-section p,.text-section tr,.text-section td{margin-bottom:8px;font-size:15px;color:#000;font-family:'Open Sans',sans-serif}
 .text-section{padding:10px 10px 20px}
@@ -1530,12 +1530,12 @@ a.text:hover{text-decoration:none}
 .tabarea label span{font-family:'Open Sans',sans-serif;font-size:18px;font-weight:700}
 .tabarea #tab3 + label{margin-right:0;left:258px}
 .tabarea #tab4 + label{margin-right:0;left:391px}
-.tabarea input:checked + label{color:#fff;border-bottom:0;background:#0084c9;padding-bottom:10px}
+.tabarea input:checked + label{color:#fff;border-bottom:0;background:#c94500;padding-bottom:10px}
 .tabarea #tab2+ label{left:128px}
 #tab1:checked ~ #content1,#tab2:checked ~ #content2,#tab3:checked ~ #content3,#tab4:checked ~ #content4{display:inline-block}
 .tabarea section p img{margin-left:10px}
 .tabarea section,.tabarea section a,.tabarea section li,.tabarea section p,.tabarea section tr,.tabarea section td{margin-bottom:8px;font-size:15px;font-family:'Open Sans',sans-serif}
-.tabarea section{margin:0;padding:25px 20px 35px;border:1px solid #e2e2e2;border-top:1px solid #0084c9}
+.tabarea section{margin:0;padding:25px 20px 35px;border:1px solid #e2e2e2;border-top:1px solid #c94500}
 .tabarea section a{color:#111;font-family:'Open Sans',sans-serif}
 .tabarea section a:hover{text-decoration:underline}
 .tabarea section ul,.tabarea section ol{margin-bottom:10px;padding-left:20px}
@@ -1551,8 +1551,8 @@ a.text:hover{text-decoration:none}
 .footer ul{margin:0;padding:10px 0 0}
 .footer p{margin:0;padding:10px 0 0;font-family:'Open Sans',sans-serif;font-size:15px}
 .footer ul li{display:block;padding:3px 0}
-.footer .footer-signup a{display:inline-block;padding:8px 19px;line-height:18px;color:#fff;background:#0084c9;font-size:14px;font-family:'Open Sans',sans-serif;text-transform:uppercase;margin-top:14px;border-radius:2px}
-.footer .footer-signup a:hover{background:#fff;color:#0084c9}
+.footer .footer-signup a{display:inline-block;padding:8px 19px;line-height:18px;color:#fff;background:#c94500;font-size:14px;font-family:'Open Sans',sans-serif;text-transform:uppercase;margin-top:14px;border-radius:2px}
+.footer .footer-signup a:hover{background:#fff;color:#c94500}
 .footer ul li a{color:#d1d1d1!important;font-size:14px;text-transform:uppercase;font-family:'Open Sans',sans-serif}
 .footer .quick-link a::before{display:inline-block;width:24px;height:16px;right:10px;top:15px;content:"\f105";font-family:'FontAwesome';font-size:1em;padding-right:10px;vertical-align:middle;float:left;font-weight:400}
 .footer .btn-warning{background:#fdf234!important;color:#000;border-color:#fdf234!important}
@@ -1563,11 +1563,11 @@ a.text:hover{text-decoration:none}
 .sub-page{padding:8px 10px 5px;display:inline-block;width:100%}
 .sub-page input{display:none}
 .inner-container{width:90%;margin:0 auto}
-.inner-container h1{font-size:36px;color:#0084c9;font-family:'Open Sans',sans-serif;font-weight:700;line-height:44px;margin:0 0 13px}
-.inner-container h2{font-size:30px;color:#0084c9;font-family:'Open Sans',sans-serif;font-weight:700;line-height:38px;margin-bottom:7px}
-.inner-container h3{font-size:18px;color:#0084c9;text-transform:uppercase;font-family:'Open Sans',sans-serif;font-weight:700;line-height:26px;margin-bottom:8px}
-.inner-container h4{font-size:16px;color:#0084c9;text-transform:uppercase;font-family:'Open Sans',sans-serif;font-weight:400;line-height:21px;margin-bottom:5px}
-.inner-container h5{font-size:14px;color:#0084c9;text-transform:uppercase;font-family:'Open Sans',sans-serif;font-weight:400;line-height:19px}
+.inner-container h1{font-size:36px;color:#c94500;font-family:'Open Sans',sans-serif;font-weight:700;line-height:44px;margin:0 0 13px}
+.inner-container h2{font-size:30px;color:#c94500;font-family:'Open Sans',sans-serif;font-weight:700;line-height:38px;margin-bottom:7px}
+.inner-container h3{font-size:18px;color:#c94500;text-transform:uppercase;font-family:'Open Sans',sans-serif;font-weight:700;line-height:26px;margin-bottom:8px}
+.inner-container h4{font-size:16px;color:#c94500;text-transform:uppercase;font-family:'Open Sans',sans-serif;font-weight:400;line-height:21px;margin-bottom:5px}
+.inner-container h5{font-size:14px;color:#c94500;text-transform:uppercase;font-family:'Open Sans',sans-serif;font-weight:400;line-height:19px}
 .inner-container,.inner-container p,.inner-container a,.content-text a.text,.inner-container th,.inner-container td,.inner-container li{font-size:14px;color:#333;font-family:'Open Sans',sans-serif;font-weight:400;line-height:23px}
 .inner-container a{color:#333!important;text-decoration:underline}
 .content-text a.text{font-weight:400}
@@ -1596,13 +1596,13 @@ table.v4midBox{border:0!important}
 table.v4acpcont{margin-bottom:20px!important}
 .v4acp_head .v4accent{padding:0;background:none}
 .v4acp_head .v4title{width:100%;padding:0!important}
-.v4acp_head .v4title h2{position:relative;line-height:43px;background:#0084c9;color:#4e4e4e;top:0;left:0;padding-left:12px;color:#fff;width:100%;font-size:18px;line-height:43px;font-family:'Open Sans',sans-serif;font-weight:700;text-transform:uppercase}
+.v4acp_head .v4title h2{position:relative;line-height:43px;background:#c94500;color:#4e4e4e;top:0;left:0;padding-left:12px;color:#fff;width:100%;font-size:18px;line-height:43px;font-family:'Open Sans',sans-serif;font-weight:700;text-transform:uppercase}
 .v4midBox.v4nfc .v4acp_mid .v4mid{background:#fff!important;border:0;padding:0}
 table .v4acpcont:nth-child(1) .v4acp_mid .v4mid{padding:10px 5px;border:1px solid #ddd}
 table .v4acpcont .v4acp_mid .v4mid form table tbody tr:nth-child(2){display:none!important}
 #LeftPanel .v4sbox{border:1px solid #ccc;border-radius:2px;padding:4px 0;min-width:143px;margin-right:14px}
 #LeftPanel input[type="submit"]{background:#eee;border:1px solid #bbb;border-radius:2px;color:#555;padding:4px 10px;text-transform:uppercase}
-#LeftPanel input[type="submit"]:hover{background:#0084c9;color:#fff;border-color:#0084c9}
+#LeftPanel input[type="submit"]:hover{background:#c94500;color:#fff;border-color:#c94500}
 #LeftPanel .v4title h2:before{content:"\f0c9";font-family:'FontAwesome';font-size:1em;padding-right:10px;vertical-align:middle;font-weight:400}
 table.v4clp td ul{padding:0;margin:0}
 table.v4clp td{padding:0!important}
@@ -1616,7 +1616,7 @@ table.v4clp td ul li a{font-size:14px;line-height:18px;font-family:'Open Sans',s
 .v4midBox.v4nfc .v4acp_mid .v4mid .lev1 >li{position:relative;border-bottom:1px solid #dbdee1}
 .v4midBox.v4nfc .v4acp_mid .v4mid .lev1 li a,.v4midBox.v4nfc .v4acp_mid .v4mid .lev1 li span:first-child{font-size:14px;line-height:18px;font-family:'Open Sans',sans-serif;font-weight:400;color:#333;padding:0;display:initial}
 .v4midBox.v4nfc .v4acp_mid .v4mid .lev1 li:hover a,.v4midBox.v4nfc .v4acp_mid .v4mid .lev1 li span:first-child,.v4midBox.v4nfc .v4acp_mid .v4mid .lev1 li span:first-child + span{color:#000!important}
-.v4midBox.v4nfc .v4acp_mid .v4mid .lev1 li a:hover{color:0084c9}
+.v4midBox.v4nfc .v4acp_mid .v4mid .lev1 li a:hover{color:c94500}
 .v4midBox.v4nfc .v4acp_mid .v4mid .lev2{padding:0}
 .v4midBox.v4nfc .v4acp_mid .v4mid .lev2 li{padding-left:27px;list-style:none}
 .v4midBox.v4nfc .v4acp_mid .v4mid .lev2 li a,.v4midBox.v4nfc .v4acp_mid .v4mid .lev2 li span:first-child{font-weight:400;color:#555}
@@ -1631,10 +1631,10 @@ table.v4clp td ul li a{font-size:14px;line-height:18px;font-family:'Open Sans',s
 .pagewidth .v4stabl,.pagewidth div.r3_cm{padding:0}
 .pagewidth div.r3_cm{display:inline-block;min-height:auto;width:100%;padding:8px 10px 17px}
 .pagewidth .v4stabl,.pagewidth .ctrlbr .pdmt:first-child,.pagewidth div.r3_cm div.rs_box div.cmpBr span.cmsg.g-nav{display:none}
-.pagewidth .fpcc{display:inline-block;width:100%;padding:0 0 10px;border-bottom:3px solid #0084c9}
+.pagewidth .fpcc{display:inline-block;width:100%;padding:0 0 10px;border-bottom:3px solid #c94500}
 .pagewidth .fpcc > div{border-bottom:0;display:inline-block;width:100%}
 .fpcc .smuy{margin:0}
-.pagewidth .fpcc .smuy span{color:#0084c9;display:inline;white-space:initial;font-weight:700;font-family:'Open Sans',sans-serif;font-size:21px;line-height:38px}
+.pagewidth .fpcc .smuy span{color:#c94500;display:inline;white-space:initial;font-weight:700;font-family:'Open Sans',sans-serif;font-size:21px;line-height:38px}
 .pagewidth .fpcc .smuy span.keywordClass{font-weight:700}
 .pagewidth .fpcc .smuy span.countClass,.pagewidth .fpcc .smuy span.keywordClass{background:none}
 .pagewidth .fpcc .smuy span.matchClass{margin:0 2px 0 4px}
@@ -1665,7 +1665,7 @@ table.v4clp td ul li a{font-size:14px;line-height:18px;font-family:'Open Sans',s
 .pagewidth div.r3_cm div.rs_box .dynpg .m .pager .next a.enabled:last-child{background:url(../images/icon-bg.png) no-repeat 0 -815px}
 .pagewidth div.r3_cm div.rs_box .dynpg .m .pager .pages .pipe{display:none}
 .pagewidth div.r3_cm div.rs_box .dynpg .m .pager .pages a{color:#333!important;font-family:'Open Sans',sans-serif;font-size:14px;line-height:18px;padding:4px 7px;display:table-cell;display:inline-block;font-weight:400;margin-right:4px}
-.pagewidth div.r3_cm div.rs_box .dynpg .m .pager .pages a.disabled,.pagewidth div.r3_cm div.rs_box .dynpg .m .pager .pages a:hover{color:#fff!important;background:#0084c9}
+.pagewidth div.r3_cm div.rs_box .dynpg .m .pager .pages a.disabled,.pagewidth div.r3_cm div.rs_box .dynpg .m .pager .pages a:hover{color:#fff!important;background:#c94500}
 .pagewidth div.r3_cm div.rs_box .dynpg .m .pager .pages a,.pagewidth div.r3_cm div.rs_box .dynpg .m .pager .pages a:active{text-decoration:none}
 .pager{margin:0 auto 15px}
 .rs_box{border:0}
@@ -1720,7 +1720,7 @@ table.gallery table.fixed tr{width:100%;display:table}
 table.gallery table.fixed tr.price-style{margin-bottom:14px}
 table.gallery table.fixed tr td .stp{text-align:right;display:none}
 table.gallery table.fixed tr td:last-child{text-align:right}
-table.gallery table.fixed tr td .bin.g-b{font-size:18px;font-family:'Open Sans',sans-serif;line-height:23px;color:#0084c9;font-weight:700}
+table.gallery table.fixed tr td .bin.g-b{font-size:18px;font-family:'Open Sans',sans-serif;line-height:23px;color:#c94500;font-weight:700}
 table.gallery table.fixed span.oriprs,table.gallery table.prices span.oriprs{font-size:14px;font-family:'Open Sans',sans-serif;line-height:20px;color:#616161}
 table.gallery table.fixed span.disct,table.gallery table.prices span.disct{margin-top:4px}
 table.gallery table.fixed tr td{display:table-cell}
@@ -1737,7 +1737,7 @@ td#CentralArea div.dynpg .m .pager{margin:0 auto}
 .pagewidth .fpcc .smuy span{font-size:17px;line-height:30px}
 }
 @media(min-width:992px) and (max-width:1140px) {
-.slider #id1 + label + .img-details:hover,.slider input[name='slide_switch']:checked+label+ .img-details:hover{transform:scale(1.1);border:1px solid #0084c9}
+.slider #id1 + label + .img-details:hover,.slider input[name='slide_switch']:checked+label+ .img-details:hover{transform:scale(1.1);border:1px solid #c94500}
 }
 @media (max-width: 992px) {
 .slider{padding-top:495px}
@@ -1789,7 +1789,7 @@ td#CentralArea span.pdmt{top:-24px}
 .navigation{background:#111}
 .nav-item{width:100%;border-top:1px solid #ddd;border-bottom:1px solid #000}
 .nav-trigger{position:absolute;clip:rect(0,0,0,0)}
-.nav-trigger + label{display:block;background:#0084c9;cursor:pointer;color:#fff;line-height:45px;font-size:18px;font-family:"Open Sans",sans-serif;margin:0}
+.nav-trigger + label{display:block;background:#c94500;cursor:pointer;color:#fff;line-height:45px;font-size:18px;font-family:"Open Sans",sans-serif;margin:0}
 .nav-trigger + label::before{display:inline-block;width:24px;height:16px;right:10px;top:15px;content:"\f0c9";font-family:'FontAwesome';font-size:1.5em;padding-left:10px;vertical-align:middle;float:left;font-weight:400}
 .header-content .menu-header{-webkit-transition:opacity .5s ease-in-out;-moz-transition:opacity .5s ease-in-out;-ms-transition:opacity .5s ease-in-out;-o-transition:opacity .5s ease-in-out;transition:opacity .5s ease-in-out;display:none}
 .nav-trigger:checked ~ .menu-header{filter:alpha(opacity=50);opacity:1;display:inline-block}
@@ -1799,8 +1799,8 @@ td#CentralArea span.pdmt{top:-24px}
 .menu-header ul.menu{box-shadow:0 4px 4px #e6e6e6}
 .menu-header ul{float:right;text-align:left;width:100%}
 .menu-header ul li{float:left;width:100%;position:relative;border-bottom:1px solid #f5f5f5}
-.menu-header ul li a{background:#0084c9;color:#111;line-height:22px;font-size:16px;font-family:"Oswald",sans-serif;padding:10px;display:inline-block;width:100%;color:#fff}
-.menu-header ul li a:hover{background:#f5f5f5;color:#0084c9}
+.menu-header ul li a{background:#c94500;color:#111;line-height:22px;font-size:16px;font-family:"Oswald",sans-serif;padding:10px;display:inline-block;width:100%;color:#fff}
+.menu-header ul li a:hover{background:#f5f5f5;color:#c94500}
 .menu-header ul li input{display:none}
 .slider{padding-top:320px;width:100%;position:relative}
 .slider .img-details,.slider .img-details img{max-height:300px}
@@ -1810,13 +1810,13 @@ td#CentralArea span.pdmt{top:-24px}
 .tab-list{margin:0 0 30px}
 .tabarea{border:0;margin:27px 0 0}
 .tabarea::before{display:none}
-.tabarea label{width:100%;display:inline-block;position:relative;padding:12px 0;font-size:20px;border-bottom:1px solid #fff;color:#fff;font-weight:700;border-bottom:0;background:#0084c9;padding-bottom:12px;padding:12px 20px;border-bottom:1px solid #fff}
+.tabarea label{width:100%;display:inline-block;position:relative;padding:12px 0;font-size:20px;border-bottom:1px solid #fff;color:#fff;font-weight:700;border-bottom:0;background:#c94500;padding-bottom:12px;padding:12px 20px;border-bottom:1px solid #fff}
 .tabarea label::before{display:inline-block;width:24px;height:16px;position:absolute;right:10px;top:15px;content:"\f067";font-family:'FontAwesome';font-size:1em;padding-right:10px;vertical-align:middle;float:right;font-weight:400}
 .tabarea input:checked + label{padding:12px 20px}
 .tabarea input:checked + label::before{display:inline-block;width:24px;height:16px;position:absolute;right:10px;top:15px;content:"\f068";font-family:'FontAwesome';font-size:1em;padding-right:10px;vertical-align:middle;float:right;font-weight:400}
-.tabarea #tab2 + label,.tabarea #tab3 + label,.tabarea #tab4 + label{left:0;color:#fff;font-weight:700;border-bottom:0;background:#0084c9;padding:12px 20px;border-bottom:1px solid #fff}
-.tabarea input:checked + label{border-bottom:1px solid #fff;color:#fff;font-weight:700;border-bottom:0;background:#0084c9;padding-bottom:12px;border-bottom:1px solid #fff}
-.tabarea section{padding:14px 10px 17px;margin:0;border-top:0;border-bottom:1px solid #0084c9}
+.tabarea #tab2 + label,.tabarea #tab3 + label,.tabarea #tab4 + label{left:0;color:#fff;font-weight:700;border-bottom:0;background:#c94500;padding:12px 20px;border-bottom:1px solid #fff}
+.tabarea input:checked + label{border-bottom:1px solid #fff;color:#fff;font-weight:700;border-bottom:0;background:#c94500;padding-bottom:12px;border-bottom:1px solid #fff}
+.tabarea section{padding:14px 10px 17px;margin:0;border-top:0;border-bottom:1px solid #c94500}
 .tabarea section .content-right,.tabarea section .content-left{width:100%;padding:0}
 .tab-content{padding:0}
 table.tb_v4bc tr td{padding:0 10px}
